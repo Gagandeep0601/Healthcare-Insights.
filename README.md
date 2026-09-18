@@ -20,6 +20,9 @@ The incremental workflow follows:
 
 **Old Watermark → New Watermark → IF Condition → Copy Delta → MERGE/Upsert → Update Watermark**
 
+<img width="1312" height="1199" alt="image" src="https://github.com/user-attachments/assets/3510a418-827a-4654-a7aa-4c082e74cb5c" />
+
+
 🔹 **Key outcome:**
 The solution automated data ingestion and reporting, reduced unnecessary full-load processing, centralized healthcare data, and enabled more timely and reliable Power BI insights.
 
